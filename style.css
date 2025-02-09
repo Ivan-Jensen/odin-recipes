@@ -12,3 +12,17 @@ body {
     width: 1024px;
     margin: 0 auto;
 }
+
+h2 {
+    font-size: 36px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.recipe-list {
+    border: 5px solid rebeccapurple;
+    width: 200px;
+    padding: 8px 16px;
+}
