@@ -1,0 +1,14 @@
+body {
+    background: lavender;
+}
+
+.title {
+    font-size: 64px;
+    text-align: center;
+}
+
+.about {
+    font-size: 24px;
+    width: 1024px;
+    margin: 0 auto;
+}
