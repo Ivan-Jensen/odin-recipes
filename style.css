@@ -19,10 +19,15 @@ h2 {
 
 ul {
     list-style-type: none;
+    margin: 0 auto
 }
 
 .recipe-list {
     border: 5px solid rebeccapurple;
     width: 200px;
     padding: 8px 16px;
+}
+
+li {
+    padding-bottom: 8px;
 }
